@@ -1,2 +1,3 @@
 #IMPRIMIR TABUADA
--Digite um  número de 1 á 9, para obter a multiplicação do mesmo até começando em 1 até o multiplicador 10.
+
+-Digite um  nÃºmero de 1 Ã¡ 9, para obter a multiplicaÃ§Ã£o do mesmo atÃ© comeÃ§ando em 1 atÃ© o multiplicador 10.
