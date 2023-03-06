@@ -23,8 +23,11 @@ class tabuada1
         var multi = 0;
         Console.Write("Digite o multiplicador: ");
         int.TryParse(Console.ReadLine(), out multi);
-        if (multi == 0)
+        while (multi == 0 || multi < 1 || multi > 9)
+        {
+            Console.Write("Erro digite um número de 1 á 9: ");
             int.TryParse(Console.ReadLine(), out multi);
+        }
 
         for (int i = 1; i <= 10; i++)
         {
